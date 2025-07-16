@@ -6,7 +6,7 @@ find for the flag using the find command or use the grep command with -r to recu
 cat the file flag, it returns a Hexadecimal string.<br>
 finaly use any online tool to change it to ascii.<br>
 
-
+*COMMANDS:* <br>
 $wget https://artifacts.picoctf.net/c_titan/140/mobpsycho.apk<br>
 $sudo unzip mobpsycho.apk<br>
 $find . -name flag.txt<br>
