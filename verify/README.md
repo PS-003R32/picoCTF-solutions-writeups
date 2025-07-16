@@ -11,4 +11,4 @@ $cat checksum.txt <br>
 $sha256sum ./files/* | grep <_enter the checksum value_><br>
 $./decrypt.sh ./files/87590c24<br>
 
-this will return the flag: picoCTF{trust_but_verify_74360c24}<br>
+this will return the flag: picoCTF{trust_but_verify_87590c24}<br>
