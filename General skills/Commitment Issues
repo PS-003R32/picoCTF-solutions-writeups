@@ -1,0 +1,17 @@
+Description<br>
+I accidentally wrote the flag down. Good thing I deleted it! You download the challenge files here:<br>
+    challenge.zip: https://artifacts.picoctf.net/c_titan/77/challenge.zip<br>
+
+In this easy level challenge we have to perform some git commands.<br>
+Download the challenge.zip file and unzip the file.<br>
+Move to drop-in directory and you have a txt file which when cat ourt shows 'TOP SECRET'<br>
+we will use git commands to solve this challenge. use '$git + TAB' to view all options for git.<br>
+
+How to solve:<br>
+$wget https://artifacts.picoctf.net/c_titan/77/challenge.zip<br>
+$unzip challenge.zip && cd drop-in<br>
+$git + tab (to view options)<br>
+$git log<br>
+$git show <commit ID of 'remove sensitive info'> (this will reveal the flag) <br>
+
+flag:picoCTF{s@n1t1z3_30e86d36}
