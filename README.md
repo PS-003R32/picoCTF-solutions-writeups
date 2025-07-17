@@ -1,2 +1,2 @@
 # picoCTF_solutions
-here are some of my solutions to picoCTF problems. ;)
+here are some of my solutions to picoCTF challenges. ;)
