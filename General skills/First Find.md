@@ -1,7 +1,7 @@
 Description<br>
 Unzip this archive and find the file named 'uber-secret.txt'<br>
 
-    Download zip file (https://artifacts.picoctf.net/c/500/files.zip)<br>
+    Download zip file (https://artifacts.picoctf.net/c/500/files.zip)
 
   In this challenge you will see there are many directories and some hidden directories as well.<br>
   Simply using the grep command will not help you to find the flag, although its hidden in plain text.<br>
