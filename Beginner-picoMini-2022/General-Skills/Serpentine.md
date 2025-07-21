@@ -1,6 +1,6 @@
 Description<br>
 Find the flag in the Python script! <br>
-Download Python script: https://artifacts.picoctf.net/c/35/serpentine.py<br>
+[Download Python script](https://artifacts.picoctf.net/c/35/serpentine.py)
 
 If you run the python script you will notice it has option 'b' to print the flag but it doesn't.<br>
 to dig deeper we will use a text editor to view the script. you will notice at line 17 it has some encrypted flag and also a print flag function<br>
