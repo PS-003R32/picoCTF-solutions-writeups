@@ -11,9 +11,9 @@ This repository is organized by:
 - **Category**: Cryptography, Forensics, Binary Exploitation, Web Exploitation, Reverse Engineering, General Skills
 
 Sample folder layout:
- picoCTF-2024/General-Skills/endianness.md
+ -picoCTF-2024/General-Skills/endianness.md
 
- picoGym-Exclusive/General-Skills/First-Find.md
+ -picoGym-Exclusive/General-Skills/First-Find.md
 
 
 ---
@@ -30,22 +30,18 @@ Each writeup includes:
 - Category
 - Problem Statement (summarized)
 - Thought Process
-- Step-by-step Solution
+- Step by step solution
 - Flag (for live instances youer flag will be different.)
 
 ---
 
 ##  Topics Covered here
 
-- `picoCTF`
-- `picoCTF-writeups`
-- `CTF-challenges`
-- `cybersecurity`
-- `ethical-hacking`
-- `reverse-engineering`
-- `binary-exploitation`
-- `forensics-ctf`
-- `web-exploitation`
+- `general skills`
+- `reverse engineering`
+- `binary exploitation`
+- `forensics`
+- `web exploitation`
 - `cryptography`
 
 ---
@@ -62,8 +58,3 @@ Maintained by [PS-003R32](https://github.com/PS-003R32).
 Open to feedback, improvements, and collaboration opportunities.
 
 ---
-
-##  License
-
-MIT — Free to use, modify, and share with attribution.
-
