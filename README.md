@@ -1,6 +1,6 @@
 # picoCTF Solutions & Writeups (2019–2025)
 
-Welcome to a comprehensive repository of **picoCTF challenge solutions**, featuring detailed writeups across cryptography, binary exploitation, reverse engineering, web exploitation, forensics, and general skills. Perfect for beginners, learners, and competitive hackers looking to level up.
+Welcome to my comprehensive repository of **picoCTF challenge solutions**, featuring detailed writeups across cryptography, binary exploitation, reverse engineering, web exploitation, forensics, and general skills. This is for beginners and learners looking to level up.
 
 ---
 
@@ -11,19 +11,19 @@ This repository is organized by:
 - **Category**: Cryptography, Forensics, Binary Exploitation, Web Exploitation, Reverse Engineering, General Skills
 
 Sample folder layout:
- picoCTF-2024/ └── General-Skills/ └── endianness.md
+ picoCTF-2024/General-Skills/endianness.md
 
- picoGym-Exclusive/ └── General-Skills/ └── First-Find.md
+ picoGym-Exclusive/General-Skills/First-Find.md
 
 
 ---
 
-##  What’s Inside
+##  What’s in my repo
 
 -  Step-by-step walkthroughs
--  Source code snippets
+-  Command snippets
 -  Explanation of CTF techniques and tools
--  Verified working solutions
+-  Working solutions
 
 Each writeup includes:
 - Challenge Name
@@ -31,11 +31,11 @@ Each writeup includes:
 - Problem Statement (summarized)
 - Thought Process
 - Step-by-step Solution
-- Flag
+- Flag (for live instances youer flag will be different.)
 
 ---
 
-##  Topics Covered
+##  Topics Covered here
 
 - `picoCTF`
 - `picoCTF-writeups`
@@ -50,20 +50,9 @@ Each writeup includes:
 
 ---
 
-##  Goal
+##  Contribute my repository
 
-To serve as a helpful resource for:
--  Beginners exploring CTFs
--  Learners brushing up on cybersecurity techniques
--  Job seekers showcasing practical skills
--  Puzzle lovers tackling picoCTF challenges
-
----
-
-##  Contribute
-
-Found a better approach or a missing writeup? Feel free to fork and submit a pull request!  
-Let’s make this a go-to hub for **picoCTF walkthroughs**.
+If you have found a better approach or a missing writeup? Feel free to fork and submit a pull request!
 
 ---
 
