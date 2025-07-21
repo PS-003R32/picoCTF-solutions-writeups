@@ -8,13 +8,13 @@ Unzip this archive and find the file named 'uber-secret.txt'<br>
 
   commands:<br>
   ```bash
-  wget https://artifacts.picoctf.net/c/500/files.zip<br>
+  wget https://artifacts.picoctf.net/c/500/files.zip
   ```
   ```bash
-  unzip files.zip<br>
+  unzip files.zip
   ```
   ```bash
-  grep -r picoCTF<br>
+  grep -r picoCTF
   ```
   <img width="993" height="52" alt="image" src="https://github.com/user-attachments/assets/19585345-a6ac-456f-a230-3e5b466a4e21" /><br>
 
