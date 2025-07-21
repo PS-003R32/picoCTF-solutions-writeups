@@ -74,7 +74,7 @@ Open to feedback, improvements, and collaboration opportunities.
 
 ---
 
-## 📌 License
+##  License
 
 MIT — Free to use, modify, and share with attribution.
 
