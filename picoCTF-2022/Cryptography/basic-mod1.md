@@ -24,7 +24,7 @@ with open("message.txt") as cat:
                         flag.append('_')
 print("picoCTF{"+"".join(flag)+"}")
 ```
-Here we will first read the contents of the flag file and store the encrypted numbers in a list. then each number will be moded with 37
+Here we will first read the contents of the flag file and store the encrypted numbers in a list, then each number will be moded with 37
 to get the remainder. the remainder will be mapped with the above conditional statements.
 <img width="740" height="497" alt="image" src="https://github.com/user-attachments/assets/d3485e8c-0705-4f49-88f2-7ddb1ad81350" />
 
