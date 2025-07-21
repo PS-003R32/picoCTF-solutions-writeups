@@ -28,4 +28,7 @@ Here we will first read the contents of the flag file and store the encrypted nu
 to get the remainder. the remainder will be mapped with the above conditional statements.
 <img width="740" height="497" alt="image" src="https://github.com/user-attachments/assets/d3485e8c-0705-4f49-88f2-7ddb1ad81350" />
 
-Flag: ```picoCTF{R0UND_N_R0UND_B6B25531}```
+Flag: 
+```text
+picoCTF{R0UND_N_R0UND_B6B25531}
+```
