@@ -1,7 +1,8 @@
 Description<br>
 Our flag printing service has started glitching! <br>
-$ nc saturn.picoctf.net 54506<br>
-
+```bash
+nc saturn.picoctf.net 54506<br>
+```
 connect to your instance and you will recieve the flag but it contains some hex values which can easily be<br>
 converted to corresponding char using python.<br>
 
