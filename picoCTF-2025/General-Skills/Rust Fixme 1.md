@@ -13,9 +13,9 @@ cargo build
 cargo run
 ```
 These are the errors that are there:
-> line 5, `let key=...` the semicolon is missing.
-> replace ret with return at line 23.
-> at line 25, replace `:?` with `{}`.
+> line 5, `let key=...` the semicolon is missing.<br>
+> replace `ret` with `return` at line 23.<br>
+> at line 25, replace `:?` with `{}`.<br>
 
 And thats it follow the commands above to run the program to get the flag.<br>
 <img width="762" height="415" alt="image" src="https://github.com/user-attachments/assets/eef31e77-d0d1-4b46-9194-ed4866af889b" /><br>
