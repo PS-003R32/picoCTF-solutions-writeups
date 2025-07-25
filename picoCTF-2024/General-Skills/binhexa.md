@@ -1,5 +1,5 @@
 ## Description
-How well can you perfom basic binary operations? Start searching for the flag here nc titan.picoctf.net <port>.
+How well can you perfom basic binary operations? Start searching for the flag here `nc titan.picoctf.net port`.
 
 ---
 In this easy level challenge you have to do 6 binary operations on the given two numbers in order to retrieve the flag.
